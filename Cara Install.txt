@@ -1,0 +1,5 @@
+1. Buka CMD melalui folder project ini 
+2. Jalankan perintah composer install
+3. Jalankan perintah php artisan migrate:fresh --seed
+4. Jalankan perintah php storage:link
+5. Jalankan perintah php artisan key:generate
