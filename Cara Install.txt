@@ -1,5 +1,7 @@
 1. Buka CMD melalui folder project ini 
-2. Jalankan perintah composer install
-3. Jalankan perintah php artisan migrate:fresh --seed
-4. Jalankan perintah php storage:link
-5. Jalankan perintah php artisan key:generate
+2. Jalankan perintah composer install ( Install Terlebih Dahulu Software Composer dan XAMPP Versi 7.4 )
+3. Ubah nama file env.example menjadi env
+4. Buat Database simapel di localhost phpmyadmin
+5. Jalankan perintah php artisan migrate:fresh --seed
+6. Jalankan perintah php storage:link
+7. Jalankan perintah php artisan key:generate
